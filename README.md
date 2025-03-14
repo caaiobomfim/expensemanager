@@ -4,12 +4,12 @@ Welcome to **Expense Manager**! 🚀 This is a full-stack application built with
 
 ## 🌟 Features
 
-✅ Add expenses 💰
-✅ Categorize expenses 🏷️
-✅ Responsive and user-friendly UI 🎨
-✅ REST API integration 🔗
-✅ Persistent storage with a database 📦
-✅ Docker support 🐳
+- ✅ Add expenses 💰
+- ✅ Categorize expenses 🏷️
+- ✅ Responsive and user-friendly UI 🎨
+- ✅ REST API integration 🔗
+- ✅ Persistent storage with a database 📦
+- ✅ Docker support 🐳
 
 ---
 
