@@ -84,9 +84,9 @@ docker-compose down
 
 ## 📸 Screenshots
 
-| Expense Form 📝 | Expense List 📊 |
-|---------------|----------------|
-| ![Form](https://via.placeholder.com/400x300) | ![List](https://via.placeholder.com/400x300) |
+| Expense Form & Expense List 📝 |
+|-----------------------------|
+| ![Expense Form & List](screenshots\expensemanager-screenshot-v0.0.1.png) |
 
 ---
 
