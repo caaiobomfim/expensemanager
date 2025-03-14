@@ -1,0 +1,5 @@
+node_modules/
+expensemanager-backend/target/
+expensemanager-frontend/dist/
+.env
+.idea/
