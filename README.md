@@ -86,7 +86,7 @@ docker-compose down
 
 | Expense Form & Expense List 📝 |
 |-----------------------------|
-| ![Expense Form & List](screenshots\expensemanager-screenshot-v0.0.1.png) |
+| ![Expense Form & List](screenshots/expensemanager-screenshot-v0.0.1.png) |
 
 ---
 
